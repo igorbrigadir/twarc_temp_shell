@@ -1,4 +1,4 @@
-name: mac
+name: win
 on: 
   workflow_dispatch:
 defaults:
